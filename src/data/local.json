@@ -1,0 +1,87 @@
+{
+  "_readme": "Per country: fun 'cost in stuff' items (approx. local prices), wage reference (APPROXIMATE, verify before promoting the World Index) and job presets (approx. hourly take-home).",
+  "in": {
+    "items": [
+      { "id": "chai", "emoji": "☕", "price": 15 },
+      { "id": "biryani", "emoji": "🍛", "price": 250 },
+      { "id": "maggi", "emoji": "🍜", "price": 15 },
+      { "id": "samosa", "emoji": "🥟", "price": 20 },
+      { "id": "zomato", "emoji": "🛵", "price": 350 },
+      { "id": "metro", "emoji": "🚇", "price": 40 }
+    ],
+    "medianHourly": 96, "minHourly": 22,
+    "jobs": { "intern": 50, "minimum": 22, "delivery": 90, "teacher": 160, "nurse": 150, "dev": 600 }
+  },
+  "us": {
+    "items": [
+      { "id": "latte", "emoji": "☕", "price": 5.75 },
+      { "id": "burrito", "emoji": "🌯", "price": 12.5 },
+      { "id": "pizza", "emoji": "🍕", "price": 3.5 },
+      { "id": "gas", "emoji": "⛽", "price": 3.2 },
+      { "id": "uber", "emoji": "🚗", "price": 22 },
+      { "id": "eggs", "emoji": "🥚", "price": 4.5 }
+    ],
+    "medianHourly": 29, "minHourly": 7.25,
+    "jobs": { "intern": 18, "minimum": 7.25, "delivery": 18, "teacher": 34, "nurse": 45, "dev": 65 }
+  },
+  "gb": {
+    "items": [
+      { "id": "pint", "emoji": "🍺", "price": 5.2 },
+      { "id": "greggs", "emoji": "🥐", "price": 1.9 },
+      { "id": "flatwhite", "emoji": "☕", "price": 3.7 },
+      { "id": "meal", "emoji": "🥪", "price": 4.0 },
+      { "id": "tube", "emoji": "🚇", "price": 2.9 },
+      { "id": "chippy", "emoji": "🐟", "price": 11 }
+    ],
+    "medianHourly": 19, "minHourly": 12.71,
+    "jobs": { "intern": 13, "minimum": 12.71, "delivery": 13, "teacher": 24, "nurse": 22, "dev": 35 }
+  },
+  "ca": {
+    "items": [
+      { "id": "timmies", "emoji": "☕", "price": 2.4 },
+      { "id": "poutine", "emoji": "🍟", "price": 11 },
+      { "id": "donut", "emoji": "🍩", "price": 1.9 },
+      { "id": "maple", "emoji": "🍁", "price": 9 },
+      { "id": "uber", "emoji": "🚗", "price": 25 },
+      { "id": "pizza", "emoji": "🍕", "price": 4 }
+    ],
+    "medianHourly": 30, "minHourly": 17.75,
+    "jobs": { "intern": 20, "minimum": 17.75, "delivery": 20, "teacher": 42, "nurse": 45, "dev": 55 }
+  },
+  "au": {
+    "items": [
+      { "id": "flatwhite", "emoji": "☕", "price": 5.5 },
+      { "id": "snag", "emoji": "🌭", "price": 4 },
+      { "id": "meatpie", "emoji": "🥧", "price": 6.5 },
+      { "id": "schooner", "emoji": "🍺", "price": 11 },
+      { "id": "avotoast", "emoji": "🥑", "price": 22 },
+      { "id": "timtam", "emoji": "🍫", "price": 5 }
+    ],
+    "medianHourly": 37, "minHourly": 24.95,
+    "jobs": { "intern": 26, "minimum": 24.95, "delivery": 28, "teacher": 50, "nurse": 48, "dev": 65 }
+  },
+  "mx": {
+    "items": [
+      { "id": "taco", "emoji": "🌮", "price": 20 },
+      { "id": "torta", "emoji": "🥖", "price": 55 },
+      { "id": "elote", "emoji": "🌽", "price": 35 },
+      { "id": "michelada", "emoji": "🍺", "price": 70 },
+      { "id": "uber", "emoji": "🚗", "price": 90 },
+      { "id": "metro", "emoji": "🚇", "price": 5 }
+    ],
+    "medianHourly": 55, "minHourly": 39,
+    "jobs": { "intern": 35, "minimum": 39, "delivery": 60, "teacher": 90, "nurse": 85, "dev": 220 }
+  },
+  "es": {
+    "items": [
+      { "id": "cana", "emoji": "🍺", "price": 2.2 },
+      { "id": "cafe", "emoji": "☕", "price": 1.6 },
+      { "id": "bocata", "emoji": "🥖", "price": 4.5 },
+      { "id": "churros", "emoji": "🍩", "price": 3.5 },
+      { "id": "menu", "emoji": "🍽️", "price": 13 },
+      { "id": "metro", "emoji": "🚇", "price": 1.5 }
+    ],
+    "medianHourly": 12, "minHourly": 7.6,
+    "jobs": { "intern": 6, "minimum": 7.6, "delivery": 8, "teacher": 15, "nurse": 14, "dev": 20 }
+  }
+}

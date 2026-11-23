@@ -1,0 +1,91 @@
+{
+  "_readme": "One entry per country. Edit a number, redeploy, done. verified=false prices show with a '≈' in the UI. lastChecked = YYYY-MM-DD.",
+  "in": {
+    "name": "India", "flag": "🇮🇳", "currency": "INR", "symbol": "₹", "locale": "en-IN", "lastChecked": "2026-11-23",
+    "hoursPerWeek": 48,
+    "game": { "standard": 5999, "ultimate": 7499, "verified": true },
+    "consoles": {
+      "ps5": { "label": "PS5", "price": 69990, "verified": true }
+    },
+    "addons": { "controller": 6390, "onlineSub": 4999, "tv": 35000, "headset": 8990, "chair": 12000, "energy": 1500 },
+    "sale": null
+  },
+  "us": {
+    "name": "United States", "flag": "🇺🇸", "currency": "USD", "symbol": "$", "locale": "en-US", "lastChecked": "2026-11-24",
+    "hoursPerWeek": 40,
+    "game": { "standard": 79.99, "ultimate": 99.99, "verified": true },
+    "consoles": {
+      "ps5": { "label": "PS5", "price": 649.99, "verified": true },
+      "ps5d": { "label": "PS5 Digital", "price": 599.99, "verified": true },
+      "ps5pro": { "label": "PS5 Pro", "price": 899.99, "verified": true },
+      "xss": { "label": "Xbox Series S", "price": 499.99, "verified": true },
+      "xsx": { "label": "Xbox Series X", "price": 799.99, "verified": true }
+    },
+    "addons": { "controller": 79.99, "onlineSub": 79.99, "tv": 450, "headset": 99.99, "chair": 199, "energy": 40 },
+    "sale": null
+  },
+  "gb": {
+    "name": "United Kingdom", "flag": "🇬🇧", "currency": "GBP", "symbol": "£", "locale": "en-GB", "lastChecked": "2026-11-24",
+    "hoursPerWeek": 37.5,
+    "game": { "standard": 69.99, "ultimate": 89.99, "verified": false },
+    "consoles": {
+      "ps5": { "label": "PS5", "price": 569.99, "verified": true },
+      "ps5d": { "label": "PS5 Digital", "price": 519.99, "verified": true },
+      "ps5pro": { "label": "PS5 Pro", "price": 789.99, "verified": false },
+      "xss": { "label": "Xbox Series S", "price": 429.99, "verified": true },
+      "xsx": { "label": "Xbox Series X", "price": 669.99, "verified": true }
+    },
+    "addons": { "controller": 64.99, "onlineSub": 69.99, "tv": 400, "headset": 89.99, "chair": 179, "energy": 30 },
+    "sale": null
+  },
+  "ca": {
+    "name": "Canada", "flag": "🇨🇦", "currency": "CAD", "symbol": "C$", "locale": "en-CA", "lastChecked": "2026-11-24",
+    "hoursPerWeek": 40,
+    "game": { "standard": 109.99, "ultimate": 139.99, "verified": false },
+    "consoles": {
+      "ps5": { "label": "PS5", "price": 819.99, "verified": true },
+      "ps5d": { "label": "PS5 Digital", "price": 749.99, "verified": true },
+      "ps5pro": { "label": "PS5 Pro", "price": 1099.99, "verified": true },
+      "xss": { "label": "Xbox Series S", "price": 649.99, "verified": false },
+      "xsx": { "label": "Xbox Series X", "price": 999.99, "verified": false }
+    },
+    "addons": { "controller": 99.99, "onlineSub": 99.99, "tv": 600, "headset": 129.99, "chair": 279, "energy": 50 },
+    "sale": null
+  },
+  "au": {
+    "name": "Australia", "flag": "🇦🇺", "currency": "AUD", "symbol": "A$", "locale": "en-AU", "lastChecked": "2026-11-24",
+    "hoursPerWeek": 38,
+    "game": { "standard": 129.95, "ultimate": 159.95, "verified": false },
+    "consoles": {
+      "ps5": { "label": "PS5", "price": 999.95, "verified": false },
+      "ps5pro": { "label": "PS5 Pro", "price": 1399.95, "verified": false },
+      "xss": { "label": "Xbox Series S", "price": 699, "verified": false },
+      "xsx": { "label": "Xbox Series X", "price": 1099, "verified": false }
+    },
+    "addons": { "controller": 119.95, "onlineSub": 119.95, "tv": 700, "headset": 149, "chair": 299, "energy": 55 },
+    "sale": null
+  },
+  "mx": {
+    "name": "México", "flag": "🇲🇽", "currency": "MXN", "symbol": "$", "locale": "es-MX", "lastChecked": "2026-11-24",
+    "hoursPerWeek": 48,
+    "game": { "standard": 1499, "ultimate": 1899, "verified": false },
+    "consoles": {
+      "ps5d": { "label": "PS5 Digital", "price": 8499, "verified": false },
+      "ps5pro": { "label": "PS5 Pro", "price": 17160, "verified": false }
+    },
+    "addons": { "controller": 1599, "onlineSub": 1199, "tv": 7000, "headset": 1999, "chair": 3500, "energy": 600 },
+    "sale": null
+  },
+  "es": {
+    "name": "España", "flag": "🇪🇸", "currency": "EUR", "symbol": "€", "locale": "es-ES", "lastChecked": "2026-11-24",
+    "hoursPerWeek": 40,
+    "game": { "standard": 79.99, "ultimate": 99.99, "verified": true },
+    "consoles": {
+      "ps5": { "label": "PS5", "price": 649.99, "verified": false },
+      "xss": { "label": "Xbox Series S", "price": 499.99, "verified": true },
+      "xsx": { "label": "Xbox Series X", "price": 799.99, "verified": true }
+    },
+    "addons": { "controller": 74.99, "onlineSub": 71.99, "tv": 450, "headset": 89.99, "chair": 179, "energy": 35 },
+    "sale": null
+  }
+}
